@@ -13,4 +13,9 @@ body {
   div {
     text-align: center;
   }
-  
+  img {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    width: 500px;
+  }
